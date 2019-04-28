@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node": "^11.14.0",
+    "react": "^16.8.6"
+  },
+  "name": "portfolioblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
